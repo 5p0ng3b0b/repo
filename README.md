@@ -1,2 +1,3 @@
 # repo
-Kodi/XBMC plugin repo
+This is my Kodi/XBMC plugin repo.
+
