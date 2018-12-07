@@ -1,1 +1,29 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.5p0ng3b0b" version="1.01" name="5p0ng3b0b Skin" provider-name="5p0ng3b0b">
+	<requires>
+		<import addon="xbmc.gui" version="5.12.0"/>
+		<import addon="script.grab.fanart" version="0.12.8"/>
+		<import addon="script.skinshortcuts" version="0.4.5"/>
+		<import addon="service.library.data.provider" version="0.0.7"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="config" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="config" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">5p0ng3b0b Skin</summary>
+		<description lang="en_GB">A modded Aeon Nox Skin</description>
+		<disclaimer lang="en_GB"></disclaimer>
+		<platform>all</platform>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+		<news></news>
+		<assets>
+			<icon>resources/icon.jpg</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
