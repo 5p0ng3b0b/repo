@@ -11,9 +11,9 @@
 		<res width="2560" height="1080" aspect="21:9" default="false" folder="config" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">5p0ng3b0b Skin</summary>
-		<description lang="en_GB">A modded Aeon Nox Skin</description>
-		<disclaimer lang="en_GB"></disclaimer>
+		<summary lang="en">5p0ng3b0b Skin is an educational add-on. We do not host any of the contents streamed.</summary>
+		<description lang="en">A modded Aeon Nox Skin</description>
+		<disclaimer lang="en"></disclaimer>
 		<platform>all</platform>
 		<license></license>
 		<forum></forum>
@@ -22,7 +22,7 @@
 		<source></source>
 		<news></news>
 		<assets>
-			<icon>resources/icon.jpg</icon>
+			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
 	</extension>
