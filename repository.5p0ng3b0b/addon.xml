@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.5p0ng3b0b" name="5p0ng3b0b Repo" version="1.01" provider-name="5p0ng3b0b">
 	<extension point="xbmc.addon.repository" name="5p0ng3b0b Repo">
-		<info compressed="false">https://raw.githubusercontent.com/5p0ng3b0b/zips/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/5p0ng3b0b/zips/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/5p0ng3b0b/zips/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/5p0ng3b0b/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/5p0ng3b0b/repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/5p0ng3b0b/repo/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">5p0ng3b0b Repo is an educational add-on. We do not host any of the contents streamed.</summary>
