@@ -1,6 +1,6 @@
 <?xml version="1.01" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="plugin.program.5p0ng3b0b" name="5p0ng3b0b Wizard" version="1.08" provider-name="5p0ng3b0b">
+	<addon id="program.5p0ng3b0b" name="5p0ng3b0b Wizard" version="1.08" provider-name="5p0ng3b0b">
 		<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
