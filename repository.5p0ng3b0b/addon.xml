@@ -6,7 +6,7 @@
 		<datadir zip="true">https://raw.githubusercontent.com/5p0ng3b0b/zips/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">5p0ng3b0b is a educational add-on. We do not host any of the contents streamed.</summary>
+		<summary lang="en">5p0ng3b0b Repo is an educational add-on. We do not host any of the contents streamed.</summary>
 		<description lang="en"></description>
 		<platform>all</platform>
 	</extension>
